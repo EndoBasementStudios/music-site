@@ -1,0 +1,288 @@
+{
+  "artist": {
+    "name": "Sean Endo",
+    "heroImage": "assets/hero/hero.jpeg",
+    "colors": {
+      "background": "#0a0a0a",
+      "panel":      "#141414",
+      "heading":    "#f5f0e8",
+      "text":       "#c9c3b6",
+      "accent":     "#c9a961"
+    },
+    "socials": [
+      { "platform": "instagram",  "url": "https://instagram.com/seanendo_username" },
+      { "platform": "patreon",    "url": "https://patreon.com/SeanEndo?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_fan&utm_content=copyLink" },
+      { "platform": "youtube",    "url": "http://www.youtube.com/@SeanEndo" }
+    ]
+  },
+  "albums": [{
+      "id": "fotos-2025",
+      "name": "Fotos From Foreign Frontiers 2025",
+      "description": "Description for stuff here...",
+      "coverImage": "assets/albums/fotos-2025/FFFFcopy.png",
+      "downloadPath": "https://www.patreon.com/SeanEndo/posts/fotos-from-2025-161488673?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share",
+      "colors": {
+        "background": "#5456E7",
+        "panel":      "#0000FF",
+        "heading":    "#000000",
+        "text":       "#F7C733",
+        "accent":     "#5892A6"
+      },
+      "songs": 
+        [
+  {
+    "id": "crescendo",
+    "name": "Crescendo",
+    "description": "",
+    "lyrics": "I saw a drop fall from the milk of her eyes\nNeith swam out from it's ripples\nAnd she wove the space into an arrow that shot through the sun\n\nThe bang could be heard from inside the belly of Cygnus\nChampagne disturbed the endless blackness\nFor the first time there was light, and from it came music and the only child of love\n\nOur overlords watch and ponder, study us like ants\nDo they wait for us in a supernova to join celestial court\nIf they laughed out loud, we wouldn't hear them over the cauldron's rolling boil\nTo sail towards abyss and be devoured next to gods\nI sit on a rock, my future not too far\nI squeeze her tight to keep her warm\nLets talk for hours about the things we can't imagine while our atoms disintegrate\n\nSomewhere there's a love that's unconditional\nSomewhere there's forgiveness for you\nBut what spell have you cast on me to cause me to see stars\nWhat notes do you play to lift my strings up to mars\nSing to me\nSing with me\nScream my shitty poems\n\nSing to me\nSing with me\nScream my shitty poems\nGoodbye, Jade. My heart only has room for one\nGoodbye, Saturn. Your rings don't impress me anymore\nGoodbye, Neptune. I'm sick of the ice in my veins\nHello, Gabrielle. Did I do the music proud\nHello, new century. What will my chisel chip today\nHello stardust, and the lady David dressed as to bring the band back together\n\nI will be indomitable",
+    "downloadPath": "assets/albums/long-way-home/track-1.mp3",
+    "youtubeUrl": "https://youtu.be/8_-uhpmoKM0?si=AzA4xIDv2ibPzfqK"
+  },
+  {
+    "id": "hippie-girl",
+    "name": "Hippie girl",
+    "description": "",
+    "lyrics": "Hippie girl, hippie girl, peace and love and love\nThe key to staying skinny; do Rohypnol and throw up\nHippie girl, hippie girl, thanks for loving me\nAnd everything you've ever loved is ridden with disease\nPh'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn\n\nFirst they wear black shirts, now they wear red hats\nYou fell for the propaganda and now I am currently contemplating the best way to waste the rest of my life, waiting around until the day I die\nI know, I think I might write a song. I'll guarantee everyone will get the meaning wrong\nAnd I'll write a bass that goes doodoodoodoodoodoo cause I have no patients\n\nSteal from the rich and give to the poor. Your daddy doesn't care, that's what his wallet's for\nMake sure it's on video so everyone can see that you're oh so cool and chill, and you have no personality\nPh'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn\n\nI have no idea how to play guitar\nAnd I'm sick of acting like I can\nUhh\nFuck this shit, Scott take a solo\n\n\"I'm not a hero\" he cries from the cliff tops, as the war drags on down below\nMissiles rain on a beast named Apathy, and eldritch horror that stands to stare god in the eye\nWith swords for scales and magma breath\nYou see your reflection in the whites of it's eyes\nAll the soldiers pray to have peace one day, but they keep throwing rocks in the sky\n\nThere lives a man who seems content living his life unsupervised, no audience\nIs he to blame for your despair? Growing up he was taught that this world is unfair\nI'm going home I'm going home\nI'm going I'm going I'm going I'm going\nI'm going home I'm going home I'm going home I'm going home\nYou can all scream out until your lungs pop, but when you're staring down it's throat\nInto an abyssal sized stomach, soon you're shell shocked\nA revolution's been raring to go\nBut if we don't start now then we never will\nI'm convinced you're content in a cage\nJust another pig in makeup\nOr mouse in a maze being fed by the palm through a haze\n\nHippie girl, hippie girl, peace and love and love\nI'll sell my soul if push comes to shove\nHippie girl, hippie girl, thanks for loving you\nAnd none of it was real because none of it was true",
+    "downloadPath": "assets/albums/long-way-home/track-2.mp3",
+    "youtubeUrl":"https://youtu.be/tqpT_-cuXAA?si=CmdjPg6YwNHNFnqR"
+  },
+  {
+    "id": "swamped",
+    "name": "Swamped",
+    "description": "",
+    "lyrics": "Sure I could stay here in this beach town where the dogs get high off the smoke in the breeze\nOr I could drive this lovely lady down to the Oregon sea\nMaybe I'll go tell all those rich white pricks to go and kick themselves\nOn second thought those pricks they're my family and I need them\nThey patched me up when I was beaten\nLover take my hand there's a world I wanna show you, but a sacrifice is sure to be made\nIt's pointless to worry, no need to hurry\nI'm two kids in a trench coat, sneak into the show\nHere comes a key change\n\nLately it seems that I just can't quite write the songs I like because you are on my mind\nI have dreams of sprawling epics that will never reach the page\nInstead all I've got are poems for you, poems for you\nPoems for you, yeah poems for you\nSure, she looks fine through the eyes of a sailor, cast off the land in search for the world's edge\nOh, the words she whispered to me, they gave me a whole new feeling I ain't never felt before\nOh, c'mon honey. Won't you let me here you sing to me\nI could melt in that voice\n\nMy mind's like a piece of wood drifting out on the long, long horizon\nI just can't quite sew the words right\nSoon I'll sink into a sleep and have dreams of her arms around me\nI wanna play it cool, but I want her to be with me\n\nLover take my hand, there's a world I wanna show you, but a sacrifice is sure to be made\nYeah why must I worry, I'm in no hurry\nWe're boys in men's clothes and we beg to explode",
+    "downloadPath": "assets/albums/long-way-home/track-3.mp3",
+    "youtubeUrl":"https://youtu.be/Dw4pPQ5ieAg?si=ZVR253TMWWucu0xC"
+  },
+  {
+    "id": "the-modern-day-american-witch",
+    "name": "The Modern Day American Witch",
+    "description": "",
+    "lyrics": "Don't make her bend to your religion\nShe knows the rapture's past, now the devil reigns\nA doctor of the natural science\nWhen Earth has so much beauty, who needs faith\nA philosopher that's most absurdist\nEnough to strike confusion in Dali\nLike Nicks was possessed by Rhiannon\nAll horrors hide inside, my fear shalt not speak\n\nThis witch can brew a storm in a bottle\nTarot cards, herbs, oils, crystals, transcribe my dreams\n\nWas I too naïve, too enchanted\nOr have her lips been laced with cocaine\nCome conjure spells by candle lit darkness\nAnd cast a curse upon the high class pigs\nThis cowboy got lost in the forest\nThough I'll say the stars are nice, I think I'll stay\nGet high with me and tell me secrets\nSwim with me through the cosmos, dance in outer space\nHer dark curls hypnotized me\nI wanna drink her elixir and smoke her weed\n\nOh, she's gonna cast a spell on you, boy\nYou better run for your life\nShe's coming after you, girl\nThe queen of the night time",
+    "downloadPath": "assets/albums/long-way-home/track-4.mp3",
+    "youtubeUrl":"https://youtu.be/aaZOpTccGxw?si=QwU4obQNRUF2gLbp"
+  },
+  {
+    "id": "a-walk-to-egypt",
+    "name": "A Walk to Egypt",
+    "description": "",
+    "lyrics": "He's going to Egypt to look for gold\nBut the Oracle lied, there's no way to unfold\nThis tale of love is one-sided at best\nDon't forget the wind whispers back what she said\nBut when the wind sings, she's sincere\nWhere the sun shines, calamity draws near\n\nI pray for disaster to sweep me away\nI'm afraid of the empty that'll catch me someday\nNow I walk to Egypt by foot through the sand\nIt hurts to leave it all behind\n\nMy mind walks towards the siren, but he the shepherd knows there's nothing to control\n\nI've ignored this love for far too long, I've been searching for something I've already stumbled upon",
+    "downloadPath": "assets/albums/long-way-home/track-5.mp3",
+    "youtubeUrl":"https://youtu.be/Cl_mM55Ee-4?si=yOKAgUkroBfHdHZJ"
+  },
+  {
+    "id": "8am-in-november",
+    "name": "8am in November",
+    "description": "",
+    "lyrics": "Chevy pickup truck go for a drive down the 11\nFrom Mission to Abby, over the bridge Highway 11\nDeliver this package to Matsqui prison\nAnd when that sky turns gold I'll forget how to hate\nAnd Garcia will sing to me\nThen I'll drive same way back. It's a cloudy morning in November\n\nFrozen dew on the lawn. Warm up the engine before I go\nWhile the dawn is still dark out, scrape off the ice before I go\nIs this the sun that George wrote all his songs about\nAs It belts out a major chord light pierces through my eye, and my skin all turns to steam before I float up to the sky\n\nStill not worth the price of gas, but that's an unfair comparison",
+    "downloadPath": "assets/albums/long-way-home/track-6.mp3",
+    "youtubeUrl":"https://youtu.be/rTuXCoIpqME?si=Z2lURfcnm8XNe5Ju"
+  },
+  {
+    "id": "2-chords",
+    "name": "2 Chords",
+    "description": "",
+    "lyrics": "Can you hear me, can you feel me\nI can feel you still\nIs it still raining, is there any complaining\nLeft to do up there\nAre you glad to be reunited with your boy, or are you sad that it's too soon\nIt feels like not a day has past. I still hear your frail laugh. So we drink today with you\n\nDid they come today, wish you good health today while between teeth pray on your fall\nAnother dollar, you and your father cough up for the home you built with your own hands\nThe poor old hermit sits in his lonely home\nHas time forgotten and moved on\nDo the years pass like seconds at this point\nHave you grown numb to the punches at this point\nWhen it's your turn we'll cry like newborns\n\nThe least deserving of fate disturbing are hunted by bad luck it seems\nOh, the stories of your old glories, were they as swollen as your cells\nAll I hear is of how much we could have shared\nYour daughters miss you everyday\nGod, fill my selfish desires. Keep your dirty mits off of these angels on earth\nSo I wear your ring today",
+    "downloadPath": "assets/albums/long-way-home/track-7.mp3",
+    "youtubeUrl":"https://youtu.be/Obl-RgbuoFI?si=i1ztb3gDtS6SScWs"
+  },
+  {
+    "id": "klee-wyck",
+    "name": "Klee Wyck",
+    "description": "",
+    "lyrics": "My white whale, the Klee Wyck\nI saw her snicker at me\nThat undead doe grew moss on her back\nHer exposed ribs were filled with flowers\nFlesh hanging onto her bones by a thread\nEach hoof print left in the grass\nBurned in a blue will-o-wisp before disappearing\nVanished in a bush I've been mocked by a wendigo\nCrazy I'm called, drinking too much they say\nSo long ago, maybe I dreamed it after all\nBut the others seen it too lost in the woods one night\nIt's out there laughing at us for believing\nSpend our lives hunting\nConceding will kill you inside\nGrab your spears, lads. And two pints to go\nFight, bleed for all you believe in\nOh we'll prove them wrong, and I'll be the laughing one\nFor we rather be martyrs than fools",
+    "downloadPath": "assets/albums/long-way-home/track-8.mp3",
+    "youtubeUrl":"https://youtu.be/4jqpxtckWx4?si=ZCH2SeznnvrFBvUv"
+  }
+]
+      },
+    {
+      "id": "everyone-is-stupid-except-for-me",
+      "name": "Everyone Is Stupid Except For Me 2024",
+      "description": "Description for stuff here...",
+      "coverImage": "assets/albums/everyone-2024/everyone.png",
+      "downloadPath": "https://www.patreon.com/SeanEndo/posts/everyone-is-for-161488588?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share",
+      "colors": {
+        "background": "#D52429",
+        "panel":      "#0000FF",
+        "heading":    "#000000",
+        "text":       "#F7C733",
+        "accent":     "#F6A891"
+      },
+      "songs": [
+  {
+    "id": "not-another-rockstar",
+    "name": "Not Another Rockstar",
+    "description": "",
+    "lyrics": "Oh joy, sound the bells, today is great\nHere comes the man of my dreams with a bitch on a chain\nHes not just any other rockstar\nHe's so much better than any other rockstar\nOoh lala oh my my\nPlease take my money and spit in my eye\n\nI'm the reason there's an us and a them\nBecause I wouldn't dare compare myself to you anywhere\nI thank god you chose this occupation\nRather than a nurse, teacher, trades person, or any of the many jobs in high demand that higher with minimal requirements\nSurly we don't need any of those\n\nOshi look at me, daisuki\nAll just for you I have learned Japanese\nBecause she's not just any other idol\nShe's so much better than any other idol\nOh lala oh mymy\nNever once are you allowed to have sex in your life\n\nSay goodbye to all your creativity\nIf you dont follow a trend it's a means to an end\nYou're a slave to the heirarchy\nAnd they don't give a shit if I know where you live\nWho says its wrong\nIt's just culture shock",
+    "downloadPath": "assets/albums/long-way-home/track-1.mp3",
+    "youtubeUrl":"https://youtu.be/81a3BRDYeI4?si=dO069dkyCiVS_-xT"
+  },
+  {
+    "id": "a-monkeys-wedding",
+    "name": "A Monkey's Wedding",
+    "description": "",
+    "lyrics": "The sunrise in the morning\nIt's a little low for a September day\nShe goes crossing\nA little high for mid July\nAnd she steps out in the pooring rain\nShe's first lady\n\nThe monkey's clapping the monkey talks\nNever throw bananas on the side walk\n\nThe sunrise in the morning\nIt's a little low for a September day\nShe goes walking\nA little high for mid July\nAnd she steps out in the pooring rain\nShe's first lady\n\nThe monkey's clapping the monkey talks\nOh lala oh mymy\n\nShe's the talk of the block\nShes walking the talk",
+    "downloadPath": "assets/albums/long-way-home/track-2.mp3",
+    "youtubeUrl":"https://youtu.be/jPDqtuYpDhI?si=jQvFuDns2Zxcq54v"
+  },
+  {
+    "id": "the-pretentious-dickhead",
+    "name": "The Pretentious Dickhead",
+    "description": "",
+    "lyrics": "There's a stone and I know won't be long before you take it away from me\nThere's a stone, my eyes see gold. But I know you want me to be all alone\nMaybe I'm blind. My songs should rhyme. I can't keep time when I record one by one\n\nThere's a throne in a glass dome. It's locked up tight not meant to be sat on by unquenched pride\nMy bones they're cold. Not yet old but soon I'll wish I decided I opened up more\nCaptain I'll try what they despise. To wander through Frownland would bring a tear to my eye\nI laugh at my-- at my demise my hearts on the table for all to make fun of",
+    "downloadPath": "assets/albums/long-way-home/track-3.mp3",
+    "youtubeUrl":"https://youtu.be/EjxNdUUwu48?si=3gEUZ3To8cMN1wde"
+  },
+  {
+    "id": "aluminum-pirates",
+    "name": "Aluminum Pirates",
+    "description": "",
+    "lyrics": "Take your garbage bags and empty them out on the floor\nTen cents per bottle plastic or glass\nSplit the treasures equally amongst our brothers\nShare the wealth, share the wealth\nWe will not succumb to the greed which puppetteers the bastards who demand we work like slaves\nWe collect the riches that were thrown away\n\nYoho yoho its a wanderer's life for we\nSleep in a tent\nDon't pay rent\nDon't own a cent every day is like a camping trip\nWe're your new family\nMy old one left me\n\nYoho yoho boy is nature sure great\nLots of vitamin D from being outside all day\nYou don't need to say please, buying drugs is a breeze\nYoho yoho its a wanderer's life for we\nSleep in a tent\nDon't pay rent\nDon't own a cent every day is like a camping trip\nWe're your new family\nMy old one left me\n\nHave you seen the little one whoes run away to never again dream\n(Have you seen the little one whoes gone and now he's fallen into a dream)\n\nHe wont cry anymore sans responsibilite\n(No he'll never cry anymore the world is make believe)\n\nSo throw aside your former life we want you just the way you are\nA seadog's life you're sure to find is the free-est but not the cleanest\n\nTake your garbage bags and empty them out on the floor\nTen cents per bottle plastic or glass\nSplit the treasures equally amongst our brothers\nShare the wealth, share the wealth\nWe will not succumb to the greed which puppetteers the bastards who demand we work like slaves\nWe collect the riches that were thrown away",
+    "downloadPath": "assets/albums/long-way-home/track-4.mp3",
+    "youtubeUrl":"https://youtu.be/qSWQAwHqJuE?si=C8DH7jDKR0PzxmPV"
+  },
+  {
+    "id": "the-pinecone-fight",
+    "name": "The Pinecone Fight",
+    "description": "",
+    "lyrics": "Uncle Colin came out racing\nTo greet us at the door\nHe bent down to pick up a pinecone\nI had no idea what was in store\nHe chucked it at my brother and I\nAt first I was confused\n'Till my brother threw one right back at him\nNow a war was about to insue\n\nPinecones in my eyes\nGot welts on my arms and forehead\nIt hurts I wont lie\nBrother we cant be defeated\n\nI lay in grandpa's driveway\nWe lost out bravest soldier tonight\n\nOh brother Sean, you can't give in we nearly won the fight\nHis outstreched arm brings me back to life\nA barage flys through the sky\nAnd I stand up, take aim, ready to attack\nMy pinecone hits him square in the back\nHe hit the floor\nThe battle's won\nA victory cry, my brother and I are glorious\nThe brothers cheered\nWhile Colin sighed\nYou won this round but I will get you back next time\nHe hit the floor\nThe battle's won\nA victory cry, my brother and I are glorious\n\nCome next Christmas dinner\nThere he stands again\nThe gleem in his eye tells me\nHe wont go easy this time\nThe three of us start pelting each other with pinecones\nUntil we're called for supper\nWeaving in between the cars in the driveway\nIt's the greatest pinecone battle of all time",
+    "downloadPath": "assets/albums/long-way-home/track-5.mp3",
+    "youtubeUrl":"https://youtu.be/xEA-BK2JBZ8?si=b0ZN_wnLBASE3jeg"
+  },
+  {
+    "id": "el-mascara-rojo",
+    "name": "El Mascara Rojo",
+    "description": "",
+    "lyrics": "So come all ye lovers\nBare my tale today\nI go by El Mascara Rojo\nMay I amuse you with these songs of mine\nJoin me in life celebration\n\nAs the skyscrapers grow taller\nOur Human ways won't change\nSo come gather 'round the fire\nAnd share tales of yesterday\n\nOn Wreck beach\nWe are the people\nHere we scream\nFor all men equal\nBeat the drum\n\nI think of ritual parties\nDance through nature's flow\nCast away all your sorrows\nLet your troubles go\n\nWatching us stand the trees\nThrough midnight's darkness\nI will breathe the ways of our old ones\nSo come share a drink and laugh 'till you cry now\nBe showered in stars and blessed by the moon\nCook all your hunt over the fire\nAnd squint as the smoke burns holes in your eyes\n\nGaze at her majesty\nAnd her cloudy veil\nThe sun shines like halo\nSo I know she's the one\nLord knows I'd never've found her on my own\nLord knows I'd run away from anything too good for me\n\nI used to abuse your name to excuse my ill mind\nWhich sent me on a false quest for a joy impossible to find\nBut now I've grown and I know better then to blame everything on the divine\nNow I've grown and I can shape my own life\nAnd forget how I hurt myself years ago\n\nAs I gaze out on the ocean, you appear\nIn the rays from the sun\nIt's always been the sign I made to know you're here\nNo, not anymore\n\nI remember feeling less than human\nBut that was never the case\nI fret over the bigger questions nobody else could handle\nWhy, that'd make anyone insane\n\nAnd I used to sing\n\nDo you happen to know where my humanity's gone?\nDid god create man or man create",
+    "downloadPath": "assets/albums/long-way-home/track-6.mp3",
+    "youtubeUrl":"https://youtu.be/f7UI8boZAN0?si=EBc56o2DhscFpAyp"
+  },
+  {
+    "id": "shoogiedoobap",
+    "name": "Shoogiedoobap",
+    "description": "",
+    "lyrics": "Ladies and gentlemen, have you ever listened to a song where the lyrics are just complete fucking gibberish?\nWell, this song is about that\n\nLet's all do the shoogiedoobap \nLet's all do the shoogiedoobap \nLet's all do the shoogiedoobap \nBrother, get up on that stage about me how you shoogiedoobap your baptabadatdaa\n\nOb li di ob li da\nDi doo doo doo di da da da\nBai ya ya\nHyperbolicsyllabicsesquedalymistic\n\nLet's all do the shoogiedoobap \nLet's all do the shoogiedoobap \nLet's all do the shoogiedoobap",
+    "downloadPath": "assets/albums/long-way-home/track-7.mp3",
+    "youtubeUrl":"https://youtu.be/JCvh57KVZXE?si=0th8woVmO1muoq6v"
+  },
+  {
+    "id": "okanagan-vineyards",
+    "name": "Okanagan Vineyards",
+    "description": "",
+    "lyrics": "When the sun set in Narmada, that's when the storm blew away\nNow it hasn't rained for five short years, and the crops are far past decayed\nBut I'm grateful to that burning ball of passion in the sky\nNow I can get better and playing the strings because my throat is dry\n\nOh no I don't ever wish for it rain again\nI don't pray for the Storm\nOr the lighting strike\nOr the wind blow down the trees\n\nToday I saw a tear rolled down mother nature's cheek\nI stopped and stuck out my tongue to catch a drop\nIt both tasted and smelled like an oil painting of Aphrodite\nBeing birthed from the ocean's sea foam green\nWhen the clouds faded to bright blue sky I never felt more relieved\nNow the Okanagan vineyards can return to their idle peace\nI hope I never hear the rain drops laugh against the pavement\nSure all the water sounds nice now, but it wont while it's happening\n\nOh no I don't, ever wish for it rain again\nI don't pray for the Storm\nOr the lighting strike\nOr the wind blow\nOh this drought is gonna get the best of me",
+    "downloadPath": "assets/albums/long-way-home/track-8.mp3",
+    "youtubeUrl":"https://youtu.be/zXoEl_pMeIM?si=nypA_CztcRG4iRBc"
+  },
+  {
+    "id": "dont-cry-shea",
+    "name": "Don't cry Shea",
+    "description": "",
+    "lyrics": "",
+    "downloadPath": "assets/albums/long-way-home/track-9.mp3",
+    "youtubeUrl":"https://youtu.be/51AyMnlEgrM?si=uvhkRwBPza4Pi9CM"
+  }
+      ]
+    },
+    {
+      "id": "humble-beginings-2024",
+      "name": "Humble Beginings 2024",
+      "description": "Album description with some description stuff here",
+      "coverImage": "assets/albums/humble-beginings-2024/HB cover.jpg",
+      "downloadPath": "https://www.patreon.com/SeanEndo/posts/humble-2024-161488106?collection=2226459",
+      "colors": {
+        "background": "#C3FE0A",
+        "panel":      "#0000FF",
+        "heading":    "#000000",
+        "text":       "#F7C733",
+        "accent":     "#c9a961"
+      },
+      "songs": [
+        {
+          "id": "roll",
+          "name": "ROLL",
+          "description": "Whatever the description is....",
+          "lyrics": "I climbed a mountian just to get here\nI've slain a thousand dragons in these short years\nAnd alas I have nothing to share it for\nAnd alas I have no proof\nso I hide in my shell\nI will die undiscovered\nWhy even try? for the sake of myself and no one else\n\nIts been too long since I've last seen a woman like you\nThe promise of forever I cannot bestow upon you\nIt's for myself that I must keep rolling the bones\nWho am I? least of my worries\nWhy even try? crush my enemies\nIt's cold outside. I stand proud in the nude\n\nWho am I? least of my worries\nWhy even try? crush my enemies\nIt's cold outside. I stand proud, those young scrubs can't critisize me now\nAll this time I've been so lonley\nAll this time then I found you\nAll this time I didn't know\nAll this time that you were the one I needed\nAll this time\nAll this time\n\nRoll away with me\nIm gonna roll",
+          "downloadPath": "assets/albums/midnight-reveries/track-1.mp3",
+          "youtubeUrl":"https://youtu.be/k0pApoHWkBg?si=m_2C7DygPdx6dcOY"
+        },
+        {
+          "id": "Door-Dogs",
+          "name": "Door Dogs",
+          "description": "Whatever the description is....",
+          "lyrics": "And there by the door under your feet a dog I did not know\nI said hey, did you follow us home? have you seen him before? Your confusion told me\nAll that I needed to know\n\nI already know what comes next, but dont be upset he'll get you there safe\nCharon, the ferries await. This poor dog's day has finally come\nAll of the seeds have been grown\n\nAnd there your confusion told me that you could not see the dog in the door",
+          "downloadPath": "assets/albums/midnight-reveries/track-2.mp3",
+          "youtubeUrl":"https://youtu.be/fRJf5K_VcHk?si=hmY8Q3tnzvOV99Ku"
+        },
+        {
+          "id": "Whim",
+          "name": "Whim",
+          "description": "Whatever the description is....",
+          "lyrics": "She through out my door\nShe slept on my floor\nShe drank all my beer\nBut I kinda llike it, I get excited\nWhen she starts knocking it feels so good\n\nTime is a concept to fear us away from never not sleeping, created to enslave\nBut it's colde now\nIm getting older now, or at least I'd like to believe\n\nI can't sing like Blue-eyes\nThe high art's not my size\nStill he keeps climbing, pushing the boulder\nRoll'er back over to start all again\n\nWhoes lyrics need meaning\nYour thoughts arn't endeering\nYou're just pretentious, go get a job\n\nI'd like to see Venice one day, but who knows?\nMaybe I'll sooner roll over or go with the flow\nStress does not exist\nUnless you let it\nSO don't waste your time judging me",
+          "downloadPath": "assets/albums/midnight-reveries/track-3.mp3",
+          "youtubeUrl":"https://youtu.be/7xeU42_jHus?si=NLwVC_BQ3yxPFy_X"
+        },
+        {
+          "id": "Vaccum-Chamber",
+          "name": "Vaccum Chamber",
+          "description": "Whatever the description is....",
+          "lyrics": "If I could live in a vaccum chamber\nIf I wouldn't fill my lungs with hatred\nbut as time moves I think about the people not here\nIf I could let my friends go\nIf time would stop I'd have not motivation\nWhy do I wish my life not slow\nIt's better this than a trip and fall into old age\n\nIf I could live in a vaccum chamber\nIf I could stay in this moment forever\nTo hault the decay of every living thing's bones\nIf I could lay here next to you\nI promise that I wouldnt dare think to touch you\nYou dont need reason to give love\nPredicting other peoples thoughts, you'll never know what they really want\n\nDont say it's over\nAll my blood\nJust to never have to move out from under the sun\nWhy do I contradict myself the markings from the belt they wont fade away\nBut as time moves I think of the poele not here\n\nIf I could live in a vaccum chamber\nIf I could roll over without ever tasting failure",
+          "downloadPath": "assets/albums/midnight-reveries/track-4.mp3",
+          "youtubeUrl":"https://youtu.be/HkS4HK4XeQk?si=yQzAMxYY-PiQhEQF"
+        },
+  {
+    "id": "jade-jules",
+    "name": "Jade Jules",
+    "description": "",
+    "lyrics": "Let me tell ya bout Jade Jules\nI wanna hear you sing\nI wanna hear you sing me a song, you cannot go wrong\n\nI bought her trademark perfume\nI'll sniff it all night long\nI'll smell it while I sing to myself all day and night long\n\nI think you caught me loose in the winter scrounging for a dinner cruisin just to find a new sound\nI'll never write one, nope, I'll never find one\nStuck seeing jade in my head\n\nShe cooks I eat\nSHe cooks I eat\nshe cooks I eat\nshe cooks I eat\nshe cooks I eat\nnever full",
+    "downloadPath": "assets/albums/long-way-home/track-1.mp3",
+    "youtubeUrl":"https://youtu.be/TEmMqpD8paw?si=fFf3wUYhkQE4izPT"
+  },
+  {
+    "id": "ulysses",
+    "name": "Ulysses",
+    "description": "",
+    "lyrics": "Hark! cried the sailor, land blooms on her horizon\nMother Gaia has left wonders for us mortal men to strive for\nHer full forests and thick thickets stand between us and a bounty of overflowing treasure we swore our lives to seek\nYet in the chest was but a map to a new adventure somewhere. Load the ship and set sail again for a new goose to find\nWind pours into the ocean and forward we blast off. To fall for her tricks again will reward us as long as we never yield",
+    "downloadPath": "assets/albums/long-way-home/track-2.mp3",
+    "youtubeUrl":"https://youtu.be/tTXIFZ-1-9k?si=ycUCjnTm2juBE3gF"
+  },
+  {
+    "id": "professor-plum",
+    "name": "Professor Plum",
+    "description": "",
+    "lyrics": "Have you ever had a dream you swore had a deeper meaning\nI've been studying my day visions for many years now\nPast the kalediscope of colours I think I found a deeper answer\nIts that Decartes' brain's in a vat\nYou cant prove you're up to bat\nAnd the rules you thought that are there never were\n\nWhat you call memories were a child's imagination\nYet you ate up every spoonful they fed to you\nSo what the hell is all this nature I see around me\nAll that requires no explination can easily be observed\nBecause Decartes' brain's in a vat\nYou cant prove you're up to bat\nAnd the rules you thought that are there never were\n\nSo I'm tearing down parliment for my freedom\nTo awake from this groovy dream which I'm stuck inside of\nYour logic fails to hold itself\nFor you cant prove what you never felt\nSo why uphold a citizen\nYour master is whoever you give way\nSo why follow a leader\nHe doesn't know himself either\nThey're all only there because of someone else's label\n\nSo I wont abide by your systems, you can never make me\nBecause Decartes' brain's in a vat\nYou cant prove you're up to bat\nAnd the rules you thought that are there never were",
+    "downloadPath": "assets/albums/long-way-home/track-3.mp3",
+    "youtubeUrl":"https://youtu.be/F2CWxQmSF5E?si=qY0Sa5jsrfy0r5pV"
+  },
+  {
+    "id": "life-is-simple",
+    "name": "Life is Simple",
+    "description": "",
+    "lyrics": "Take my waves\nTake it all\nYou wont rememeber\nWhen the hands fall\nThat's all they are\nLet the light in\nVibrations and abstract mechanics\nRule over our being\n\nYou forgot the world is simple\nWell I don't blame you\nA fantasy to hold importance\nIs too good to be true\n\nTrust's a sugestion\nTo the electric steak\nYet we build molehills\nTo some higher plane\nThat's all they are\nLet my waves in\nVibrations and magic\nDecide what is sin\n\nYou forgot the world is simple if you read it the right way\nA warm embrace from the force of nothing\nShould not result in fear\n\nThe shouts from the fire are okay\nAnd the years of silence are not in vein",
+    "downloadPath": "assets/albums/long-way-home/track-4.mp3",
+    "youtubeUrl":"https://youtu.be/gy7z63UhE-4?si=pBuxgjyMRd4DeV1E"
+  },
+  {
+    "id": "radial-symmetry",
+    "name": "Radial symmetry",
+    "description": "",
+    "lyrics": "",
+    "downloadPath": "assets/albums/long-way-home/track-5.mp3",
+    "youtubeUrl":"https://youtu.be/1p6XPIf3MyQ?si=NU5YbQGWT1EbkCNQ"
+  },
+   {
+    "id": "Song-for-my-Son",
+    "name": "Song for my Son",
+    "description": "",
+    "lyrics": "Promise me to make memories\nAnd get into lots of trouble just dont tell your mum\nAlways be grateful for what you have\nDon't make the same mistakes I did in my past\n\nTreat your schoolmates like your brothers and your sisters\nTheres never too much love to go around\nDon't believe the rumours and form your own opinions\nBecause we're all just people in the end\n\nYou will feel blue somtimes I know\nAs often as I'm sure time will feel slow\nWhen looking back at it all everything feels so small\nLife is what you make it so please dont make it dull\n\nI may not be the most well worded man\nMy feelings never made it past my head\nAnd never feel suffocated walking through this zoo\nAnd despite what I don't say I love you\nAnd despite what I dont' say I love you",
+    "downloadPath": "assets/albums/long-way-home/track-5.mp3",
+    "youtubeUrl":"https://youtu.be/walnYq4u9GM?si=HDgTirt62Nwglfka"
+  }
+      ]
+    }
+  ],
+  "footer": {
+    "copyright": "© 2026 Sean Endo. All rights reserved.",
+    "credits": "All songs produced, written, performed, and mixed by Sean Endo."
+  }
+}
