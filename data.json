@@ -18,7 +18,7 @@
   "albums": [{
       "id": "fotos-2025",
       "name": "Fotos From Foreign Frontiers 2025",
-      "description": "Description for stuff here...",
+      "description": "",
       "coverImage": "assets/albums/fotos-2025/FFFFcopy.png",
       "downloadPath": "https://www.patreon.com/SeanEndo/posts/fotos-from-2025-161488673?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share",
       "colors": {
@@ -99,7 +99,7 @@
     {
       "id": "everyone-is-stupid-except-for-me",
       "name": "Everyone Is Stupid Except For Me 2024",
-      "description": "Description for stuff here...",
+      "description": "",
       "coverImage": "assets/albums/everyone-2024/everyone.png",
       "downloadPath": "https://www.patreon.com/SeanEndo/posts/everyone-is-for-161488588?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share",
       "colors": {
