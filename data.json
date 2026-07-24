@@ -16,6 +16,29 @@
     ]
   },
   "albums": [{
+  "id": "yesterdays-tomorrows-2026",
+  "name": "We Once Prayed for Yesterday's Unmarked Tomorrows 2026",
+  "description": "",
+  "coverImage":   "assets/albums/yesterdays-tomorrows-2026/cover.png",
+  "downloadPath": "https://www.patreon.com/SeanEndo/posts/we-once-prayed-163994600",
+  "colors": {
+    "background": "#e99518",
+    "panel":      "#b35b08",
+    "heading":    "#854b72",
+    "text":       "#deb193",
+    "accent":     "#405782"
+  },
+  "songs": [
+    {
+      "id": "first-song",
+      "name": "First Song",
+      "description": "",
+      "lyrics": "First line of lyrics\nSecond line\n\nSecond verse first line",
+      "downloadPath": "assets/albums/your-new-album/track-1.mp3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=XXXXXXXXXXX"
+    }
+  ]
+}{
       "id": "fotos-2025",
       "name": "Fotos From Foreign Frontiers 2025",
       "description": "",
