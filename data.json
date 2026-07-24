@@ -22,23 +22,23 @@
   "coverImage":   "assets/albums/yesterdays-tomorrows-2026/cover.png",
   "downloadPath": "https://www.patreon.com/SeanEndo/posts/we-once-prayed-163994600",
   "colors": {
-    "background": "#e99518",
-    "panel":      "#b35b08",
-    "heading":    "#854b72",
-    "text":       "#deb193",
+    "background": "#b35b08",
+    "panel":      "#e99518",
+    "heading":    "#deb193",
+    "text":       "#854b72",
     "accent":     "#405782"
   },
   "songs": [
     {
-      "id": "first-song",
-      "name": "First Song",
+      "id": "theseus",
+      "name": "Call me Theseus",
       "description": "",
-      "lyrics": "First line of lyrics\nSecond line\n\nSecond verse first line",
+      "lyrics": "",
       "downloadPath": "assets/albums/your-new-album/track-1.mp3",
-      "youtubeUrl": "https://www.youtube.com/watch?v=XXXXXXXXXXX"
+      "youtubeUrl": "https://youtu.be/UdSDrOROoFo?si=1aP8GPAzh7Hr2SBH"
     }
   ]
-}{
+},{
       "id": "fotos-2025",
       "name": "Fotos From Foreign Frontiers 2025",
       "description": "",
