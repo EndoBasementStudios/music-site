@@ -23,9 +23,9 @@
   "downloadPath": "https://www.patreon.com/SeanEndo/posts/we-once-prayed-163994600",
   "colors": {
     "background": "#e99518",
-    "panel":      "#b35b08",
+    "panel":      "#deb193",
     "heading":    "#000000",
-    "text":       "#deb193",
+    "text":       "#b35b08",
     "accent":     "#854b72"
   },
   "songs": [
@@ -44,7 +44,23 @@
       "lyrics": "I swear you could sing anything and I'd call it back to you\nI'll watch your six if you watch mine\n\nWe'll carry this, stern and bow, while young's the night\nIt's coming, the sun is coming\nForgot to sleep, I forgot to sleep, I\nLook at the stars how they reflect the fire\nThe tide will never snuff us out\nAnd we'll go\n\nWalking where we shouldn't walk\nFrom mountain top to ocean dock\nMornings at the cafe front\nAnd basketball in my garage\n\nWalking where we shouldn't walk\nFrom mountain top to ocean dock\nWe treck the tracks from beach to rock\nAnd more coffee at the usual spot\n\nYou, my brother I see you, scared to jump from the cliff's ledge\nI'll show you my place we can hang far away and hide in case of a police chaseGive your artist an underpass to paint on\nGive your arsonist a molotov to hail mary\nGive your botonist a new herb to grow\nThen we'll walk around the warf\nMaking songs up as we go\nTalking between coughs of smoke and sunroof down on the way home\n\nYou're only young for so long, every day should be Ferris Bueler's day off\nYou don't know that you're strong because the strongest thing of all is to know the odds and play ball\nYou're only young for so long, every day should be Ferris Bueler's day off\nYou don't know that you're strong because the strongest thing of all is to know the odds and play ball\nYou don't know that you're strong because the strongest thing of all is to know the odds and play ball\nYou don't know that you're strong because the strongest thing of all is to know the odds and play ball\nYes I've seen it, I believe it.\nIm out-stacked ten-to-one\nWhose gonna get the job done?\nThis is my race that I run\nCan't wait to tell my son",
       "downloadPath": "assets/albums/your-new-album/track-1.mp3",
       "youtubeUrl": "https://youtu.be/Z6PQX8BJ6wo?si=xPdg90ohrRt9YOCU"
-    }
+    },
+    {
+      "id": "quettascopic",
+      "name": "Quettascopic",
+      "description": "",
+      "lyrics": "I was everything\nI had it all under the sun\nAll within four walls\n\nMy magic portal\nTo robot cowboy wizards\nFlying on a cloud\n\nI miss being bored\ncounting bumps on the ceiling\nUnshook hands with time\n\nI used to pray for\nMy yesterday's unmarked tomorrows\nTo come much sooner\n\nAnd don't look back\n\nStaring with daggers\nI hiked up and saw the view\nIt stared back at me\n\nTurning but can't leave\nAnother cutout riding\nA conveyor belt\n\nI can't remember\nWhen was the last time I cried\nOr refused to settle\n\nI miss mom and dad\nAnd every friend I've ever had\nAnd unknown future\n\nAnd don't look back\n\nI recall old dreams\nInvisible monoliths\nToo big to see whole\n\nHeart weighing a star\nSinking below a giants feet\nEnjoy city lights\n\nIn a petri dish\nOr a drop in the ocean\nPebble in the void\n\nAcross the ocean\nA butterfly flaps it's wings\nI am born again\n\nWho's gonna turn out the lights?\nWho's gonna tell me goodnight?\nWho'll drive us home?\nCause now it's gone but he's still there\nWho's gonna tell me whats right?\nWho'll show me this cruel world has light?\nAnd what'll I become?\nCause now it'd gone but he's still there",
+      "downloadPath": "assets/albums/your-new-album/track-1.mp3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=hp9LmXKsQSo&list=PLEGDL8ug-xPo&index=3"
+    },
+    {
+      "id": "noise",
+      "name": "It's all just noise",
+      "description": "",
+      "lyrics": "I met a man in the sauna, he wore his heart as a little red band on his sleeve\nHe told me "Son, you've been sleeping. Give me a chance and I will read all your dreams"\n\nHe said that men are not men anymore since punk made cheap okay\nYou only use four chords, one key in 4/4 and your lyrics spell out the meaning\nNo one is a hero unless they suffer tragedy\nI tried to hang myself one time, but I was scared I'd die\nThen with one arm behind his back he told me he's changed\n\nI am Mr Rhamsay, uncontempt with adequacy\nAnd I will be the one to reach the letter Z\nThen he sung praise of Ornette Coleman for his melodies\n\n"Death by reflection, your sentence will be. Loud the crowd cried while the judge spat at me"\nThe man in the sauna, explaining his dream, aimed at the elephant and shot down a flea\n\nI don't feel human, no one understands. My intellect will bring profit to man\nI don't feel human, no one else sees. My third eye shows the big picture to me\nThe man in the sauna was wearing long sleeves\n\nDoes the heat not burn you?\nI'll spin 'round the sun alone\nWhat will they warn you about the sparks?\nThe boss is dancing in the dark\nYou will sing for swans\nFading away is for the birds\nYou play risky games (Every word I say)\nI think I like this way (Every note I play)\nOf rising every day to meet the dawn (Must be my master piece)",
+      "downloadPath": "assets/albums/your-new-album/track-1.mp3",
+      "youtubeUrl": "https://www.youtube.com/watch?v=9j8RNK8C2JQ&list=PLEGDL8ug-xPo&index=4"
+    },
   ]
 },{
       "id": "fotos-2025",
