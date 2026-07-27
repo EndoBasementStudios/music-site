@@ -22,11 +22,11 @@
   "coverImage":   "assets/albums/yesterdays-tomorrows-2026/cover.png",
   "downloadPath": "https://www.patreon.com/SeanEndo/posts/we-once-prayed-163994600",
   "colors": {
-    "background": "#b35b08",
-    "panel":      "#e99518",
-    "heading":    "#deb193",
-    "text":       "#854b72",
-    "accent":     "#405782"
+    "background": "#e99518",
+    "panel":      "#b35b08",
+    "heading":    "#000000",
+    "text":       "#deb193",
+    "accent":     "#854b72"
   },
   "songs": [
     {
@@ -36,6 +36,14 @@
       "lyrics": "",
       "downloadPath": "assets/albums/your-new-album/track-1.mp3",
       "youtubeUrl": "https://youtu.be/UdSDrOROoFo?si=1aP8GPAzh7Hr2SBH"
+    },
+    {
+      "id": "behold",
+      "name": "Behold! I am nothing",
+      "description": "",
+      "lyrics": "I swear you could sing anything and I'd call it back to you\nI'll watch your six if you watch mine\n\nWe'll carry this, stern and bow, while young's the night\nIt's coming, the sun is coming\nForgot to sleep, I forgot to sleep, I\nLook at the stars how they reflect the fire\nThe tide will never snuff us out\nAnd we'll go\n\nWalking where we shouldn't walk\nFrom mountain top to ocean dock\nMornings at the cafe front\nAnd basketball in my garage\n\nWalking where we shouldn't walk\nFrom mountain top to ocean dock\nWe treck the tracks from beach to rock\nAnd more coffee at the usual spot\n\nYou, my brother I see you, scared to jump from the cliff's ledge\nI'll show you my place we can hang far away and hide in case of a police chaseGive your artist an underpass to paint on\nGive your arsonist a molotov to hail mary\nGive your botonist a new herb to grow\nThen we'll walk around the warf\nMaking songs up as we go\nTalking between coughs of smoke and sunroof down on the way home\n\nYou're only young for so long, every day should be Ferris Bueler's day off\nYou don't know that you're strong because the strongest thing of all is to know the odds and play ball\nYou're only young for so long, every day should be Ferris Bueler's day off\nYou don't know that you're strong because the strongest thing of all is to know the odds and play ball\nYou don't know that you're strong because the strongest thing of all is to know the odds and play ball\nYou don't know that you're strong because the strongest thing of all is to know the odds and play ball\nYes I've seen it, I believe it.\nIm out-stacked ten-to-one\nWhose gonna get the job done?\nThis is my race that I run\nCan't wait to tell my son",
+      "downloadPath": "assets/albums/your-new-album/track-1.mp3",
+      "youtubeUrl": "https://youtu.be/Z6PQX8BJ6wo?si=xPdg90ohrRt9YOCU"
     }
   ]
 },{
